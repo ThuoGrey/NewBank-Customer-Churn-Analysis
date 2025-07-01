@@ -14,6 +14,9 @@ Our primary objective with this project was to leverage the provided Bank Custom
 
 # Overall Churn Landscape
 
+![NewB Over](https://github.com/user-attachments/assets/024a1773-3f98-4c70-a698-6fcfcbfc0ea7)
+
+
 Overall Customer Churn Rate:
 The data indicates an overall churn rate of 20.4%. This means approximately one-fifth of our customers are churning, which represents a significant opportunity for improvement in retention.
 
@@ -40,6 +43,8 @@ This indicates a critical issue in France, particularly with our mature customer
 
 
 # Financial Behavior and Product Usage Impact
+
+![NewB line](https://github.com/user-attachments/assets/385b951a-06e6-4ffe-bbcb-570d29af35d1)
 
 1. Credit Score Correlation with Churn:
 
